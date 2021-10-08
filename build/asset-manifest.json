@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Getrro/vk-apps-currency/static/js/main.b073afad.chunk.js",
+    "main.js.map": "/Getrro/vk-apps-currency/static/js/main.b073afad.chunk.js.map",
+    "runtime-main.js": "/Getrro/vk-apps-currency/static/js/runtime-main.47a70a32.js",
+    "runtime-main.js.map": "/Getrro/vk-apps-currency/static/js/runtime-main.47a70a32.js.map",
+    "static/css/2.a2ab3232.chunk.css": "/Getrro/vk-apps-currency/static/css/2.a2ab3232.chunk.css",
+    "static/js/2.3d1fac70.chunk.js": "/Getrro/vk-apps-currency/static/js/2.3d1fac70.chunk.js",
+    "static/js/2.3d1fac70.chunk.js.map": "/Getrro/vk-apps-currency/static/js/2.3d1fac70.chunk.js.map",
+    "index.html": "/Getrro/vk-apps-currency/index.html",
+    "static/css/2.a2ab3232.chunk.css.map": "/Getrro/vk-apps-currency/static/css/2.a2ab3232.chunk.css.map",
+    "static/js/2.3d1fac70.chunk.js.LICENSE.txt": "/Getrro/vk-apps-currency/static/js/2.3d1fac70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47a70a32.js",
+    "static/css/2.a2ab3232.chunk.css",
+    "static/js/2.3d1fac70.chunk.js",
+    "static/js/main.b073afad.chunk.js"
+  ]
+}
