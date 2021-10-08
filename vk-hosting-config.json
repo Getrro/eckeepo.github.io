@@ -2,8 +2,8 @@
   "static_path": "build",
   "app_id": 7969558,
   "endpoints": {
-    "mobile": "https://github.com/Getrro/eckeepo.github.io/blob/main/index.html",
-    "mvk": "https://github.com/Getrro/eckeepo.github.io/blob/main/index.html",
-    "web": "https://github.com/Getrro/eckeepo.github.io/blob/main/index.html"
+    "mobile": "index.html",
+    "mvk": "index.html",
+    "web": "index.html"
   }
 }
